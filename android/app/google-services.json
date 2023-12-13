@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751375548974",
+    "project_id": "chatcrafter-6c655",
+    "storage_bucket": "chatcrafter-6c655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751375548974:android:11010cd88e7bfcf25a95bf",
+        "android_client_info": {
+          "package_name": "com.example.chat_crafter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC687PoYQeYVGICQR3pR-umF8THcRnb10Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
